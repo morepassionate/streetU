@@ -1,0 +1,16 @@
+
+.cover { 
+    width: 20em;
+    height: 35em;
+    position: relative;  
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;  
+}
+
+.msg {
+    color: gainsboro;
+    margin-bottom: -20px;
+    font-size: 13px;
+}

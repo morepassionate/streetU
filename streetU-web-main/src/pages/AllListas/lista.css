@@ -1,0 +1,27 @@
+.BG {
+  height: 150vh;
+  width: 100%;
+  background: linear-gradient(to bottom, #42484D 0%, #161717EB 34.48%, #121212 100%);
+  flex-direction: column;
+  position: relative;
+}
+
+.IMGBUTTON {
+  height: 250px;
+  width: 230px;
+  border-color: white;
+  border-width: 2px;
+  align-self: center;
+  margin-bottom: 30px;
+}
+
+.IMGBUTTONBORDERLESS { 
+  height: 250px;
+  width: 230px; 
+  align-self: center; 
+  margin-bottom: 30px;
+}
+
+.txt {
+  color: 'white'
+}

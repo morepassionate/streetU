@@ -1,0 +1,15 @@
+div {
+    align-self: center; 
+}
+
+input {  
+    margin-right: 10px;
+    
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+
+label { 
+    color: white;
+    font-size: 16px;
+}

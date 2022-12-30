@@ -1,0 +1,8 @@
+.BG {
+  display: flex;
+  height: 1500vh;
+  width: 100%;
+  background: 'red';
+  flex-direction: column;
+  position: relative;
+} 

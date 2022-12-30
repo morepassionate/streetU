@@ -1,0 +1,28 @@
+.Button {
+    height: 45px;
+    background-color: #D32730;
+    color: white;
+    width: 102.5%;
+    border-radius: 10px;
+    border-color: #D32730;
+    margin-top: 20px;
+    align-self: center;
+    margin-left: 20px;
+}
+
+.ButtonOutline {
+    height: 45px;
+    background: #1e1f1feb;
+    color: white;
+    width: 102.5%;
+    border-radius: 10px;
+    border-color: white;
+    margin-top: 20px;
+    align-self: center;
+    margin-left: 20px;
+    border-width: 2px;
+}
+
+.outlineText {
+    color: white;
+}
